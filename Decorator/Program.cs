@@ -4,7 +4,7 @@
 using Decorator;
 
 IComponente miAuto = new Auto("2018", "4 puertas", 200000);
-IComponente miAuto2 = new Auto("2018", "4 puertas", 200000);
+IComponente miAuto2 = new Auto("2023", "2 puertas", 1600000);
 
 Console.WriteLine(miAuto);
 
